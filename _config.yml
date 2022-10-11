@@ -1,7 +1,7 @@
 title: Ning's Blog
 description: "A personal blog about experience sharing, reading growth, financial investment and fitness guidance."
 author:
-  name: "Ning"
+  name: "NING"
   email: "ningyiqin@gmail.com"
   url: "https://nyqink.github.io"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Ning"
+owner : "NING"
 year : "2022"
