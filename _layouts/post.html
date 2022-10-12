@@ -7,3 +7,33 @@ layout: default
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
+
+<div class="feedback">
+  <div class="feedback-box rating-box">
+  <select id="rating">
+  <option value="bad">写得不好</option>
+  <option value="mediocre" selected>写得还行</option>
+  <option value="good">写得真好</option>
+  <option value="awesome">写得太好</option>
+  </select>
+  </div>
+  <div class="feedback-box write-box">
+  <textarea id="message" placeholder="Name, Email, Message"></textarea>
+  </div>
+  <div class="feedback-box send-box">
+  <img id="sendbutton" src="images/site/send.svg">
+  <div class="spinner">
+  <div class="double-bounce1"></div>
+  <div class="double-bounce2"></div>
+  </div>
+  <img id="status" src="">
+  </div>
+  </div>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-2.1.4.min.js" type="cb1b600cbb004622e1bc2d3b-text/javascript"></script>
+  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" type="cb1b600cbb004622e1bc2d3b-text/javascript"></script>
+  <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js' type="cb1b600cbb004622e1bc2d3b-text/javascript"></script>
+  <script src="js/jquery.barrating.min.js" type="cb1b600cbb004622e1bc2d3b-text/javascript"></script>
+  <script src="js/rating.js" type="cb1b600cbb004622e1bc2d3b-text/javascript"></script>
+  </section>
+  </div>
+  </div>
