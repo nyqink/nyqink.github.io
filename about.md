@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+<center>
 
 I am Ning, formerly known as Zeove
 
