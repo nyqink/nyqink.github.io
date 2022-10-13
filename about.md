@@ -9,6 +9,8 @@ title: About
 
 <br>
 
+<br>
+
 <p>I am Ning, formerly known as Zeove</p>
 
 <p>Researcher, Writer and a Father</p>
@@ -19,22 +21,24 @@ title: About
 
 <br>
 
-<p><b><i>This Blog Does Not Accept Comments</i></b></p>
-
-<p><b><i>Whatever You Say Is Right</i></b></p>
-
-<br>
-
 <p><h3>Contact</h3></p>
 
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
 
-<a href="nyq@outlook.com">iMessage</a>
+<a href="iMessage://+8618523795271">iMessage</a>
+
+<br>
 
 <p><h3>Social</h3></p>
 
 <a href="https://show.gotokeep.com/users/5c334d2c462f1b71448a9247?utm_source=others&utm_medium=web&utm_campaign=client_share&utm_term=5c334d2c462f1b71448a9247&utm_content=users&_uid=5c334d2c462f1b71448a9247)">Keep</a>
 
-<a href="invite.seven.app/rwoz">Seven</a>
+<a href="https://deeplink.seven.app/?id=ed1bxw">Seven</a>
 
 <a href="https://twitter.com/ningyiqin">Twitter</a>
+
+<br>
+
+<p><b><i>This Blog Does Not Accept Comments</i></b></p>
+
+<p><b><i>Whatever You Say Is Right</i></b></p>
