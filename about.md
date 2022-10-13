@@ -28,6 +28,7 @@ title: About
 <a href="iMessage://+8618523795271">iMessage</a>
 
 <br>
+<br>
 
 <p><h3>Social</h3></p>
 
@@ -38,7 +39,7 @@ title: About
 <a href="https://twitter.com/ningyiqin">Twitter</a>
 
 <br>
+<br>
 
-<p><b><i>This Blog Does Not Accept Comments</i></b></p>
-
-<p><b><i>Whatever You Say Is Right</i></b></p>
+<p><b><i><font color="#888">This Blog Does Not Accept Comments</font></i></b></p>
+<p  style="margin-top:5px;"><b><i><font color="#888">Whatever You Say Is Right</font></i></b></p>
