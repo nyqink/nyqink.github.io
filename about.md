@@ -19,6 +19,8 @@ title: About
 
 <p>Idealist, Minimalist</p>
 
+<p>That's it</p>
+
 <br>
 
 <p><h3>Contact</h3></p>
