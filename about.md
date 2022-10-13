@@ -41,5 +41,5 @@ title: About
 <br>
 <br>
 
-<p><b><i><font color="#888">This Blog Does Not Accept Comments</font></i></b></p>
-<p  style="margin-top:1px;"><b><i><font color="#888">Whatever You Say Is Right</font></i></b></p>
+<p><b><i><font color="#888">This Blog Does Not Accept Comments
+<br>Whatever You Say Is Right</font></i></b></p>
