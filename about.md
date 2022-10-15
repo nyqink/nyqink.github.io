@@ -23,7 +23,7 @@ title: About
 
 <br>
 
-<p><b><h3><font color="#ff2525">Contact</font></h3></b></p>
+<p><b><h3>Contact</h3></b></p>
 
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
 
@@ -32,7 +32,7 @@ title: About
 <br>
 <br>
 
-<p><b><h3><font color="#ff2525">Social</font></h3></b></p>
+<p><b><h3>Social</h3></b></p>
 
 <a href="https://twitter.com/ningyiqin">Twitter</a>
 
@@ -43,5 +43,5 @@ title: About
 <br>
 <br>
 
-<p><i><font color="#a9a297">This Blog Does Not Accept Comments
+<p><i><font color="#ff2525">This Blog Does Not Accept Comments
 <br>Whatever You Say Is Right</font></i></p>
