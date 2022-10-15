@@ -23,7 +23,7 @@ title: About
 
 <br>
 
-<p><h3><font color="#ff2525">Contact</font></h3></p>
+<p><b><h3><font color="#ff2525">Contact</font></h3></b></p>
 
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
 
@@ -32,7 +32,7 @@ title: About
 <br>
 <br>
 
-<p><h3><font color="#ff2525">Social</font></h3></p>
+<p><b><h3><font color="#ff2525">Social</font></h3></b></p>
 
 <a href="https://twitter.com/ningyiqin">Twitter</a>
 
