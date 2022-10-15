@@ -10,7 +10,7 @@ title: Categories
         <h3>{{ category_name }}</h3>
 		<ul>	
 		{%for post in site.categories[category_name]%}
-			<li><time>{{ post.date | date:"%d %b %y" }} - </time>
+			<li><time>{{ post.date | date:"%b %y" }} - </time>
 			<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             {{ post.title }}</a>
 			</li>
