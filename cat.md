@@ -5,10 +5,9 @@ title: CAT
 
 <center>
 
-<p><b><h2>CATEGORIES</a></h2></b></p>
-
 <br>
-
+<p><b><h2>CATEGORIES</h2></b></p>
+<br>
 <p><b><h3><a href="/categories.md">READING</a></h3></b></p>
 <p>Some books I have read and my notes</p>
 
