@@ -23,7 +23,7 @@ title: About
 
 <br>
 
-<p><b><h3>Contact</h3></b></p>
+<p><b><h3>CONTACT</h3></b></p>
 
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
 
@@ -32,7 +32,7 @@ title: About
 <br>
 <br>
 
-<p><b><h3>Social</h3></b></p>
+<p><b><h3>SOCIAL</h3></b></p>
 
 <a href="https://twitter.com/ningyiqin">Twitter</a>
 
