@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cat-others
+title: OTHERS
 ---
 
 <section>

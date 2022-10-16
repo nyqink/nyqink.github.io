@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cat-interests
+title: INTERESTS
 ---
 
 <section>
