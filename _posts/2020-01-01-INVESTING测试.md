@@ -1,6 +1,6 @@
 ---
 title: reading分类测试
-cat: INVESTING
+categories: INVESTING
 published: true
 ---
 
