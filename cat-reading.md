@@ -3,4 +3,4 @@
 		<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
         {{ post.title }}</a>
 		</li>
-	{% endfor %}
+{% endfor %}
