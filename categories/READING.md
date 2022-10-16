@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cat-reading
+title: READING
 ---
 
 <section>
