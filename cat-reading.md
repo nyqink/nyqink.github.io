@@ -5,7 +5,7 @@ title: cat-reading
 
 <section>
 
-    <h3>{{ category_name }}</h3>
+    <h3>READING</h3>
 	<ul>
     {%for post in site.categories.READING%}
 		<li><time>{{ post.date | date:"%d %b %y" }} - </time>
@@ -14,5 +14,5 @@ title: cat-reading
 		</li>
     {% endfor %}
     </ul>
-    
+
 </section>
