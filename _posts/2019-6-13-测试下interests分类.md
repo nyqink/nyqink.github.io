@@ -1,6 +1,6 @@
 ---
 title: 再开博客-致敬所有的独立博客主
-categories: OTHERS
+categories: HOBBIES
 published: true
 ---
 
