@@ -14,6 +14,6 @@ title: CAT
 <p><b><h3><a href="/categories/INVESTING">INVESTING</a></h3></b></p>
 <p>Research on stock and fund investments</p>
 <p><b><h3><a href="/categories/HOBBIES">HOBBIES</a></h3></b></p>
-<p>Hobbies about Go, gardening, poem, etc</p>
+<p>Hobbies about Go, Poem, Harmonica, etc</p>
 <p><b><h3><a href="/categories/OTHERS">OTHERS</a></h3></b></p>
 <p>Other miscellaneous records</p>
