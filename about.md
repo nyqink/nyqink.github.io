@@ -26,8 +26,8 @@ title: About
 
 <p><b><h3>SOCIAL</h3></b></p>
 <a href="https://twitter.com/ningyiqin">Twitter</a>
-<a href="https://show.gotokeep.com/users/5c334d2c462f1b71448a9247?utm_source=others&utm_medium=web&utm_campaign=client_share&utm_term=5c334d2c462f1b71448a9247&utm_content=users&_uid=5c334d2c462f1b71448a9247)">Keep</a>
-<a href="https://deeplink.seven.app/?id=ed1bxw">Seven</a>
+<a href="https://www.instagram.com/ningyiqin/">Instagram</a>
+<a href="https://mastodon.world/@nyq">Mastodon</a>
 
 <br>
 <br>
