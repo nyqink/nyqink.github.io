@@ -11,6 +11,7 @@ title: About
 
 <p>I am Ning</p>
 <p>Freelancer and a Father</p>
+<p>Woking out, Playing harmonica</p>
 <p>Idealist, Minimalist</p>
 <p>That's it</p>
 
@@ -24,7 +25,7 @@ title: About
 <br>
 
 <p><b><h3>SOCIAL</h3></b></p>
-<a href="https://twitter.com/ningyiqin">Twitter</a>
+<a href="https://x.com/ningyiqin">X</a>
 <a href="https://www.instagram.com/ningyiqin/">Instagram</a>
 <a href="https://mastodon.world/@nyq">Mastodon</a>
 
