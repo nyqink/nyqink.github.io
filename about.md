@@ -9,9 +9,8 @@ title: About
 
 <br>
 
-<p>I am Ning, formerly known as Zeove</p>
-<p>Researcher, Writer and a Father</p>
-<p>The avatar is my son, but I am single</p>
+<p>I am Ning</p>
+<p>Freelancer and a Father</p>
 <p>Idealist, Minimalist</p>
 <p>That's it</p>
 
