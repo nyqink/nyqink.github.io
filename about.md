@@ -19,8 +19,7 @@ title: About
 
 <p><b><h3>CONTACT</h3></b></p>
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
-<a href="iMessage://+8618523795271">iMessage</a>
-<a href="Wechat://+iamnyq">Wechat</a>
+<a href="https://m.me/ningyiqin">Messenger</a>
 
 <br>
 <br>
