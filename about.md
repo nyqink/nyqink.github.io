@@ -11,7 +11,7 @@ title: About
 
 <p>I am Ning</p>
 <p>Freelancer and a Father</p>
-<p>Runner, Playing harmonica</p>
+<p>Runner, Reader, Harmonica player</p>
 <p>Idealist, Minimalist</p>
 <p>That's it</p>
 
