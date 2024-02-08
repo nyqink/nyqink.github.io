@@ -29,9 +29,3 @@ title: About
 <a href="https://www.instagram.com/ningyiqin/">Instagram</a>
 <a href="https://t.me/qinglishec">Telegram</a>
 <a href="https://discord.gg/T7brNdUNDH">Discord</a>
-
-<br>
-<br>
-
-<p><i><font color="#a9a297">This Blog Does Not Accept Comments
-<br>Whatever You Say Is Right</font></i></p>
