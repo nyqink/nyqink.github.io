@@ -26,6 +26,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  
+google_analytics: G-NPW210JLEE
 
 # Custom variables
 owner : "NYQ"
