@@ -28,4 +28,3 @@ title: About
 <a href="https://x.com/ningyiqin">X</a>
 <a href="https://www.instagram.com/ningyiqin/">Instagram</a>
 <a href="https://t.me/nz9079">Telegram</a>
-<a href="https://discord.gg/ningyq">Discord</a>
