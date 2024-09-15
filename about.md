@@ -19,7 +19,7 @@ title: About
 
 <p><b><h3>MEDIA SYNC</h3></b></p>
 <a href="https://medium.com/@nyq">Medium</a>
-<a href="https://substack.com/@ningyiqin/posts">Substack</a>
+<a href="https://substack.com/@ningyiqin">Substack</a>
 
 <br>
 <br>
