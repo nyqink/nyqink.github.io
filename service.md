@@ -9,21 +9,19 @@ title: Service
 
 <br>
 
-<p>I am selling my time and skills</p>
-<p>If you happen to need these services</p>
-<p>Glad I could help</p>
+<p>I have led sales, marketing and technology teams and have gained a wealth of professional and entrepreneurial experience. I'm selling my time and skills, so if you're in need of services, I'm sure I can help!</p>
 
 <br>
 
-<p><h4>Learning Chinese</h4></p>
+<p><h3>Learning Chinese</h3></p>
 <p><b>$19</b>/hour</p>
-<p><h4>Social Media Posting</h4></p>
+<p><h3>Social Media Posting</h3></p>
 <p><b>$199</b>/month</p>
-<p><h4>Shopify Marketing</h4></p>
+<p><h3>Shopify Marketing</h3></p>
 <p><b>$299</b>/month</p>
-<p><h4>Article Writing</h4></p>
+<p><h3>Article Writing</h3></p>
 <p><b>$399</b>/article</p>
-<p><h4>Business Consulting</h4></p>
+<p><h3>Business Consulting</h3></p>
 <p><b>$499</b>/package</p>
 
 <br>
