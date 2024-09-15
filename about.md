@@ -17,14 +17,24 @@ title: About
 
 <br>
 
-<p><b><h3>CONTACT</h3></b></p>
-<a href="mailto:ningyiqin@gmail.com">E-mail</a>
-<a href="https://m.me/ningyiqin">Messenger</a>
+<p><b><h3>MEDIA SYNC</h3></b></p>
+<a href="https://medium.com/@nyq">Medium</a>
+<a href="https://substack.com/@ningyiqin/posts">Substack</a>
 
 <br>
 <br>
 
 <p><b><h3>SOCIAL</h3></b></p>
 <a href="https://x.com/ningyiqin">X</a>
+<a href="https://www.threads.net/@ningyiqin">Threads</a>
 <a href="https://www.instagram.com/ningyiqin/">Instagram</a>
+
+<br>
+<br>
+
+<p><b><h3>CONTACT</h3></b></p>
+<a href=”sms:+8618523795271″>SMS</a>
+<a href="mailto:ningyiqin@gmail.com">E-mail</a>
+<a href=”sms:nyq@outlook.com”>iMessage</a>
 <a href="https://t.me/nz9079">Telegram</a>
+<a href="https://m.me/ningyiqin">Messenger</a>
