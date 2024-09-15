@@ -19,3 +19,4 @@ title: Service
 <p><h3>Article Writing - <b>$399/article</h3></b></p>
 <p><h3>Business Consulting - <b>$4999/package</h3></b></p>
 
+Feel free to contact me for purchase.
