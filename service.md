@@ -12,7 +12,7 @@ title: Service
 <p>I have achieved good results in</p>
 <p>sales, marketing and technology</p>
 <p>I'm selling my time and skills</p>
-<p>If you happen to need these services</p>
+<p>If you happen to need</p>
 <p>I'm sure I can help</p>
 
 <br>
