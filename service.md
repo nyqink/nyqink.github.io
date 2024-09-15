@@ -5,18 +5,25 @@ title: Service
 
 <center>
 
-<img src="assets/VAV.png" width="128" height="128">
+<img src="assets/VAV.jpg" width="128" height="128">
 
 <br>
 
-<p>I have achieved good results in a number of fields, and you are welcome to pay for my services if you have the following needs:</p>
+<p>Welcome to pay for my services</p>
 
 <br>
 
-<p><h3>Learning Chinese - <b>$19/hour</h3></b></p>
-<p><h3>Social Media Posting - <b>$199/month</h3></b></p>
-<p><h3>Shopify Marketing - <b>$299/month</h3></b></p>
-<p><h3>Article Writing - <b>$399/article</h3></b></p>
-<p><h3>Business Consulting - <b>$4999/package</h3></b></p>
+<p><h3>Learning Chinese</h3></p>
+<p><b>$19/hour</b></p>
+<p><h3>Social Media Posting</h3></p>
+<p><b>$199/month</b></p>
+<p><h3>Shopify Marketing</h3></p>
+<p><b>$299/month</b></p>
+<p><h3>Article Writing</h3></p>
+<p><b>$399/article</b></p>
+<p><h3>Business Consulting</h3></p>
+<p><b>$499/package</b></p>
 
-Feel free to contact me for purchase.
+<br>
+
+Feel free to contact me for specifics on purchasing services.
