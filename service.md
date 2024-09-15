@@ -9,7 +9,11 @@ title: Service
 
 <br>
 
-<p>I have led sales, marketing and technology teams and have gained a wealth of professional and entrepreneurial experience. I'm selling my time and skills, so if you're in need of services, I'm sure I can help!</p>
+<p>I have achieved good results in</p>
+<p>sales, marketing and technology</p>
+<p>I'm selling my time and skills</p>
+<p>If you happen to need these services</p>
+<p>I'm sure I can help</p>
 
 <br>
 
