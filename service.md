@@ -9,20 +9,22 @@ title: Service
 
 <br>
 
-<p>Welcome to pay for my services</p>
+<p>I am selling my time and skills</p>
+<p>If you happen to need these services</p>
+<p>Glad I could help</p>
 
 <br>
 
-<p>Learning Chinese</p>
-<p><h3><b>$19</b></h3>/hour</p>
-<p>Social Media Posting</p>
-<p><h3><b>$199</b></h3>/month</p>
-<p>Shopify Marketing</p>
-<p><h3><b>$299</b></h3>/month</p>
-<p>Article Writing</p>
-<p><h3><b>$399</b></h3>/article</p>
-<p>Business Consulting</p>
-<p><h3><b>$499</b></h3>/package</p>
+<p><h4>Learning Chinese</h4></p>
+<p><b>$19</b>/hour</p>
+<p><h4>Social Media Posting</h4></p>
+<p><b>$199</b>/month</p>
+<p><h4>Shopify Marketing</h4></p>
+<p><b>$299</b>/month</p>
+<p><h4>Article Writing</h4></p>
+<p><b>$399</b>/article</p>
+<p><h4>Business Consulting</h4></p>
+<p><b>$499</b>/package</p>
 
 <br>
 
