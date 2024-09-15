@@ -35,6 +35,5 @@ title: About
 <p><b><h3>CONTACT</h3></b></p>
 <a href="sms:+8618523795271">SMS</a>
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
-<a href="sms:nyq@outlook.com">iMessage</a>
 <a href="https://t.me/nz9079">Telegram</a>
 <a href="https://m.me/ningyiqin">Messenger</a>
