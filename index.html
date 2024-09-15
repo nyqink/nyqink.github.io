@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<center>
-
 {% if site.posts[0] %}
 {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
 {% capture firstpostyear %}{{ site.posts[0].date | date: '%Y' }}{% endcapture %}
@@ -33,4 +31,3 @@ layout: default
 {% endfor %}
 </ul>
 {% endif %}
-</center>
