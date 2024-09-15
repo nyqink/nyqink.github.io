@@ -17,15 +17,15 @@ title: Service
 
 <br>
 
-<p><h3>Learning Chinese</h3></p>
+<p><b><h3>Learning Chinese</h3></b></p>
 <p><b>$19</b>/hour</p>
-<p><h3>Social Media Posting</h3></p>
+<p><b><h3>Social Media Posting</h3></b></p>
 <p><b>$199</b>/month</p>
-<p><h3>Shopify Marketing</h3></p>
+<p><b><h3>Shopify Marketing</h3></b></p>
 <p><b>$299</b>/month</p>
-<p><h3>Article Writing</h3></p>
+<p><b><h3>Article Writing</h3></b></p>
 <p><b>$399</b>/article</p>
-<p><h3>Business Consulting</h3></p>
+<p><b><h3>Business Consulting</h3></b></p>
 <p><b>$499</b>/package</p>
 
 <br>
