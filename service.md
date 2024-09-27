@@ -9,11 +9,9 @@ title: Service
 
 <br>
 
-<p>I'm selling</p>
-<p>My time and Skills</p>
+<p>I'm selling my time and skills</p>
 <p>If you happen to need</p>
-<p>I'm sure</p>
-<p>I can help</p>
+<p>I'm sure I can help</p>
 
 <br>
 
