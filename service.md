@@ -9,22 +9,20 @@ title: Service
 
 <br>
 
-<p>I have achieved good results in</p>
-<p>sales, marketing and technology</p>
-<p>I'm selling my time and skills</p>
+<p>I'm selling</p>
+<p>My time and Skills</p>
 <p>If you happen to need</p>
-<p>I'm sure I can help</p>
+<p>I'm sure</p>
+<p>I can help</p>
 
 <br>
 
-<p><b><h3>Learning Chinese</h3></b></p>
-<p><b>$19</b>/hour</p>
-<p><b><h3>Shopify Marketing</h3></b></p>
-<p><b>$99</b>/month</p>
 <p><b><h3>Article Writing</h3></b></p>
-<p><b>$199</b>/article</p>
+<p><b>$99</b>/article</p>
+<p><b><h3>Shopify Marketing</h3></b></p>
+<p><b>$199</b>/month</p>
 <p><b><h3>Business Consulting</h3></b></p>
-<p><b>$299</b>/package</p>
+<p><b>$1999</b>/package</p>
 
 <br>
 
