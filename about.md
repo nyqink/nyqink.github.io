@@ -19,5 +19,6 @@ title: About
 
 <p><b><h3>CONTACT</h3></b></p>
 <a href="https://x.com/ningyiqin">X</a>
+<a href="https://t.me/nyqink)">Telegram
+</a>
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
-<a href="sms://+8618523795271">iMessage</a>
