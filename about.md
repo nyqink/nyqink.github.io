@@ -20,5 +20,4 @@ title: About
 <p><b><h3>CONTACT</h3></b></p>
 <a href="https://x.com/nyqink">X</a>
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
-<a href="https://t.me/nyqink">Telegram
 </a>
