@@ -21,3 +21,4 @@ title: About
 <a href="https://x.com/nyqink">X</a>
 <a href="mailto:ningyiqin@gmail.com">E-mail</a>
 <a href="imessage://+8618523795271">iMessage</a>
+<a href="https://online-go.com/player/2051439)">Online-Go</a>
